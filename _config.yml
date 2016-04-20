@@ -1,0 +1,16 @@
+# Chriselison.uk Jekyll configuration
+
+include: [".htaccess"]
+
+name: Christopher Elison
+
+contact:
+	email: chris@chriselison.uk
+	twitter: ChrisElison
+
+highlighter: rouge
+markdown: redcarpet
+
+sass:
+	sass_dir: _sass
+	style: compressed
