@@ -1,6 +1,7 @@
 # Chriselison.uk Jekyll configuration
 
 include: [".htaccess"]
+exclude: ["README.md"]
 
 name: Christopher Elison
 
@@ -10,6 +11,7 @@ contact:
 
 highlighter: rouge
 markdown: redcarpet
+permalink: /:categories/:title
 
 sass:
   sass_dir: _sass
