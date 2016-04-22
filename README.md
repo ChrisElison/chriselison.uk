@@ -7,6 +7,13 @@ learning experience into HTML, CSS, design, typography, responsive design etc, s
 some mistakes or things that could be done better, constructive crticism or improvements
 welcome, file an issue/pull request.
 
+## Directory/file structure
+ - _includes
+ - _layouts
+ - _plugins
+ - _posts
+ - _config.yml
+
 ## Contact
  - Twitter: @ChrisElison
  - GitHub: ChrisElison
